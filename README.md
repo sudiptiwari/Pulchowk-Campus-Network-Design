@@ -1,4 +1,4 @@
-# Project Report On Design of Pulchowk Campus Autonomous System in Cisco Packet Tracer
+# Design of Pulchowk Campus Autonomous System in Cisco Packet Tracer
 
 ### TRIBHUVAN UNIVERSITY
 ### INSTITUTE OF ENGINEERING
